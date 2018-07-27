@@ -8,3 +8,4 @@ dog_one = Dog.new ("fido")
 dog_two = Dog.new ("snoopy")
 dog_three = Dog.new ("lassie")
     
+puts dog_one
