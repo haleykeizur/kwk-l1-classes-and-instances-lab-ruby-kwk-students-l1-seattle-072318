@@ -14,4 +14,4 @@ dog_three = Dog.new ("lassie")
 
 end
 
-puts 
+puts dog_one
