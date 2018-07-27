@@ -3,13 +3,13 @@ class Dog
     @name = name
   end
   def name
-    @name = "fido"
+    @name = name
   end
   
   
-# dog_one = Dog.new ("fido")
-# dog_two = Dog.new ("snoopy")
-# dog_three = Dog.new ("lassie")
+dog_one = Dog.new ("fido")
+dog_two = Dog.new ("snoopy")
+dog_three = Dog.new ("lassie")
     
 
 end
