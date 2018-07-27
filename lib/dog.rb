@@ -12,6 +12,6 @@ class Dog
 # dog_three = Dog.new ("lassie")
     
 
-name
-
 end
+
+name
