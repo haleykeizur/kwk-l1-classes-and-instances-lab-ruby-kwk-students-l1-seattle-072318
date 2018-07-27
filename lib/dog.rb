@@ -14,4 +14,4 @@ class Dog
 
 end
 
-name
+puts Dog
